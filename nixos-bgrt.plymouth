@@ -1,5 +1,5 @@
 [Plymouth Theme]
-Name=NixOS BGRT
+Name=NixOS-BGRT
 Description=BGRT theme with a spinning NixOS logo
 ModuleName=two-step
 
